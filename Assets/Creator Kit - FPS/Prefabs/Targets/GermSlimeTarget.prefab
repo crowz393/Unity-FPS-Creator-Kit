@@ -291,7 +291,7 @@ GameObject:
   - component: {fileID: 5949802199157995707}
   - component: {fileID: 7818527331259110205}
   m_Layer: 10
-  m_Name: GermSlime
+  m_Name: GermSlimeTarget
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
